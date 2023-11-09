@@ -10,6 +10,7 @@ require("lazy").setup({
   spec = {
     { "neovim/nvim-lspconfig" },
     { "simrat39/rust-tools.nvim" },
+    { "eraserhd/parinfer-rust" },
     -- add LazyVim and import its plugins
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
     -- import any extras modules here
