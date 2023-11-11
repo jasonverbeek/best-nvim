@@ -11,7 +11,6 @@ Based on [LazyVim](https://github.com/LazyVim/LazyVim).
 
 - git clone this repo to `~/.config/nvim` (make a backup if you already have a config)
 - launch `nvim` and wait for plugins to install
-- for Lisp support go to `~/.local/share/nvim/lazy/parinfer-rust` and run `cargo build --release`. See [parinfer-rust](https://github.com/eraserhd/parinfer-rust) for more info.
 
 ## Optional
 
