@@ -4,4 +4,3 @@
 
 -- Disable relative line numbers
 vim.opt.relativenumber = false
-vim.api.nvim_exec("language en_US.UTF-8", true)
