@@ -3,4 +3,4 @@
 -- Add any additional options here
 
 -- Disable relative line numbers
-vim.opt.relativenumber = false
+-- vim.opt.relativenumber = false
